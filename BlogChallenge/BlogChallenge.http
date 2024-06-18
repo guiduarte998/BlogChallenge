@@ -1,0 +1,6 @@
+@BlogChallenge_HostAddress = http://localhost:5113
+
+GET {{BlogChallenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
